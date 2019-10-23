@@ -1,0 +1,7 @@
+C:\Users\g0ldi\source\repos\FilesMerge\FilesMerge\bin\Debug\FilesMerge.exe.config
+C:\Users\g0ldi\source\repos\FilesMerge\FilesMerge\bin\Debug\FilesMerge.exe
+C:\Users\g0ldi\source\repos\FilesMerge\FilesMerge\bin\Debug\FilesMerge.pdb
+C:\Users\g0ldi\source\repos\FilesMerge\FilesMerge\obj\Debug\FilesMerge.Properties.Resources.resources
+C:\Users\g0ldi\source\repos\FilesMerge\FilesMerge\obj\Debug\FilesMerge.csproj.GenerateResource.cache
+C:\Users\g0ldi\source\repos\FilesMerge\FilesMerge\obj\Debug\FilesMerge.exe
+C:\Users\g0ldi\source\repos\FilesMerge\FilesMerge\obj\Debug\FilesMerge.pdb
